@@ -6,7 +6,7 @@ Runs any git command across all repositories beneath a given directory.
 Installation
 ------------
 
-    $ [sudo] easy_install mgit
+    $ [sudo] pip install mgit
 
 Usage
 -----
